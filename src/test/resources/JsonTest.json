@@ -1,0 +1,18 @@
+{
+	"insuteName":"AIITE Technologies",
+	"batchName":"April Project 2",
+	"trainersDetails":{
+		"javaTrainer":"Rani",
+		"seleniumTrainer":"Rani",
+		"projectTrainer":"Dinesh"
+	},
+	"StudentDetails":[
+	"Divya",
+	"Ranu",
+	"Jaya",
+	"Gowtham",
+	"Gayathri",
+	"Jamuna",
+	"Vignesh"
+	]
+}
